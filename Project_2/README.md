@@ -25,7 +25,7 @@ For this analysis, I leveraged the following Excel capabilities:
 
 ### 📂 Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from the year 2023. The dataset is available via [Github Public Dataset](), which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from the year 2023. The dataset is available via [Github Public Dataset](https://github.com/lukebarousse/Excel_Data_Analytics_Course/tree/main/0_Resources/Datasets), which provides a foundation for analyzing data using Excel. 
 
 It includes detailed information on:
 
