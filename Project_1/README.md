@@ -65,5 +65,9 @@ The dataset for this project features real-world data science job listings from 
   - 🚫 Prevents errors and inconsistencies in data entry  
   - 👥 Enhances the dashboard’s usability and accuracy  
 
-![Data Validation(DV [MConverter.eu].gif)
+![Screenshot 2025-02-05 135656](https://github.com/user-attachments/assets/d0436e11-fb29-4590-986c-79cbc3c78566)
 
+## Conclusion
+
+This dashboard was designed to get insights of salary trends across various data science related job roles.
+Using public github dataset, it helps to make informed career decisions. Check the functionalities to find out how location and job type impact salaries.
