@@ -65,7 +65,8 @@ The dataset for this project features real-world data science job listings from 
   - 🚫 Prevents errors and inconsistencies in data entry  
   - 👥 Enhances the dashboard’s usability and accuracy  
 
-![Screenshot 2025-02-05 135656](https://github.com/user-attachments/assets/d0436e11-fb29-4590-986c-79cbc3c78566)
+![DV  MConverter eu](https://github.com/user-attachments/assets/92c51e80-456a-40f3-9b93-305664b3c1ac)
+
 
 ## Conclusion
 
